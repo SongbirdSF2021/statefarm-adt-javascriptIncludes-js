@@ -1,0 +1,19 @@
+{
+  "name": "statefarm-adt-javascriptincludes",
+  "version": "1.0.0",
+  "description": "Example from Javascript Includes Learn page",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SongbirdSF2021/statefarm-adt-javascriptIncludes-js.git"
+  },
+  "author": "Sequita Bridges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SongbirdSF2021/statefarm-adt-javascriptIncludes-js/issues"
+  },
+  "homepage": "https://github.com/SongbirdSF2021/statefarm-adt-javascriptIncludes-js#readme"
+}
